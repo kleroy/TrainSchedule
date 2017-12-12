@@ -1,0 +1,11 @@
+Train Schedule:
+
+create layout using past class assignment.
+
+Create train animation for Jumbotron
+
+able to submit new trains and train credentials
+
+let app show when the next train should be arriving
+
+Allow others to view train schedules and updated schedules
